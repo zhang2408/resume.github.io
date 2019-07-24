@@ -1,12 +1,12 @@
 ---
 layout: cv
-title: Wode "Nimo" Ni
-email: 
-    url: mailto:woden@cs.cmu.edu
-    text: woden@cs.cmu.edu
+title: Chenlu Wang
+email:
+    url:
+    text: wnarry1996@gmail.com
 homepage:
-    url: http://cs.cmu.edu/~woden
-    text: cs.cmu.edu/~woden
+    url:
+    text:
 ---
 # Wode __Ni__
 
@@ -21,43 +21,34 @@ Supported arguments:
 
 ## Education
 
-### __Carnegie Mellon University__ `2018.9 -`
+### __George Washington University__ `2018.9 - Now`
 ```
-Pittsburgh, PA
+Washington, DC
 ```
-- Ph.D. in Software Engineering
-- Co-advised by [Ken Koedinger](http://pact.cs.cmu.edu/koedinger.html) and [Josh Sunshine](http://www.cs.cmu.edu/~jssunshi/)
+- M.S. in Statistics
+- GPA:3.85
+- Coursework: Advanced Time Series Analysis; Mathematical Statistics; Applied Multivariate Analysis; Statistical Data Mining; Bayesian Theory (STAT6201, STAT6202, STAT6215, STAT6240, STAT6223, STAT8281)
 
-### __Columbia University__ `2016.9 - 2018.5`
+### __Georgia Institute of Technology__ `2017.1 - 2017.5`
 ```
-New York, NY
+Altalanta, GA
 ```
-- B.S. in Computer Science, _Magna Cum Laude_
-- Vision, Graphics track
+- Exchange Program in Mathematics
+- Coursework: Information Theory; Abstract Algebra
+- Research Project: conducted literature research about orthogonal polynomials
 
-### __Dickinson College__ `2013.9 - 2016.5`
+
+### __Xi’an Jiaotong University__ `2014.9 - 2018.5`
 ```
-Carlisle, PA
+Xi'an, Shaanxi, China
 ```
-- B.S. in Computer Science, _Summa Cum Laude_
-- Computer Science Departmental Honors
-
-## Publications
-
-### [__Substance and Style: domain-specific languages for mathematical diagrams__](https://2017.splashcon.org/event/dsldi-2017-substance-and-style-domain-specific-languages-for-mathematical-diagrams)
-__Wode Ni\*__, Katherine Ye\*, Joshua Sunshine, Jonathan Aldrich, and Keenan Crane.<br>  _Domain-Specific Language Design and Implementation (DSLDI 2017),  co-located with SPLASH._ <br>
-[[PDF](assets/dsldi.pdf)]
-[[slides](assets/dsldi-presentation.pdf)]
-[[www](http://penrose.ink)]
-[[repo](https://github.com/penrose/penrose)]
-
-### [__Whiteboard Scanning Using Super-Resolution__](http://scholar.dickinson.edu/student_honors/221/)
-__Wode Ni__.<br> _Dickinson College Honors Theses. Paper 221._<br>
-[[PDF](assets/superres.pdf)]
+- B.S. in Mathematics and Applied Mathematics (Honors Science Program)
+- GPA:3.65
+- Core Courses: Mathematical Analysis; Ordinary Differential Equations; Complex Variables Functions; Mathematical Modeling and Applications; Partial Differential Equations, Probability and Mathematical Statistics
 
 ## Experience
 
-### __Carnegie Mellon University, Research Experiences for Undergraduate__  `2017.5 - 2017.8`
+### __Research of Graph Theory__  `2017.11 - 2018.5`
 _Research Assistant_<br>
 __Penrose__ is a system that automatically visualizes mathematics using two domain-specific languages: __Substance__ and __Style__. Co-advised by [Jonathan Aldrich](https://www.cs.cmu.edu/~./aldrich/), [Keenan Crane](https://www.cs.cmu.edu/~kmcrane/), [Joshua Sunshine](http://www.cs.cmu.edu/~jssunshi/), and [Katherine Ye](https://www.cs.cmu.edu/~kqy/), I designed and implemented the Style language, and extended the Substance language to support functions and logically quantified statements.
 
