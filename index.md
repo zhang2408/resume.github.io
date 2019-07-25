@@ -55,7 +55,7 @@ Tallahassee, FL
 _Research Assistant_<br>
 - Advisor: Professor Jiawei Zhang from Florida State University
 - Read reference papers and articles of spectral network alignment
-- Proposed new method to slove "Anonymous Social Network Coordination" problem
+- Proposed a new method to slove "Anonymous Social Network Coordination" problem
 
 
 
