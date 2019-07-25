@@ -26,7 +26,7 @@ Supported arguments:
 Washington, DC
 ```
 - M.S. in Statistics
-- GPA:3.85
+- GPA: 3.85
 - Coursework: Advanced Time Series Analysis; Mathematical Statistics; Applied Multivariate Analysis; Statistical Data Mining; Bayesian Theory (STAT6201, STAT6202, STAT6215, STAT6240, STAT6223, STAT8281)
 
 ### __Georgia Institute of Technology__ `2017.1 - 2017.5`
@@ -43,10 +43,21 @@ Altalanta, GA
 Xi'an, Shaanxi, China
 ```
 - B.S. in Mathematics and Applied Mathematics (Honors Science Program)
-- GPA:3.65
+- GPA: 3.65
 - Core Courses: Mathematical Analysis; Ordinary Differential Equations; Complex Variables Functions; Mathematical Modeling and Applications; Partial Differential Equations, Probability and Mathematical Statistics
 
 ## Reasearch Experience
+
+### __Research of Computer Science__  `2019.5 - Now`
+```
+Tallahassee, FL
+```
+_Research Assistant_<br>
+- Advisor: Professor Jiawei Zhang from Florida State University
+- Read reference papers and articles of spectral network alignment
+- Proposed new method to slove "Anonymous Social Network Coordination" problem
+
+
 
 ### __Research of Graph Theory__  `2017.11 - 2018.5`
 ```
@@ -80,7 +91,7 @@ _Research Assistant_<br>
 
 ## Mathematical Competition
 
-### _Gaojiao Cup National Mathematical Modeling Competition_ '2016.6'
+### __Gaojiao Cup National Mathematical Modeling Competition__ `2016.6`
 ```
 Xi'an, Shaanxi, China
 ```
