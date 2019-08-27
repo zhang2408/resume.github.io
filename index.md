@@ -1,14 +1,14 @@
 ---
 layout: cv
-title: Chenlu Wang
+title: Fang Zhang
 email:
     url:
-    text: wnarry1996@gmail.com
+    text: fz13@my.fsu.edu
 homepage:
     url:
     text:
 ---
-# Chenlu __Wang__
+# __Fang____Zhang__
 
 <!--
 include contact information from the front matter
@@ -21,12 +21,12 @@ Supported arguments:
 
 ## Education
 
-### __George Washington University__ `2018.9 - Now`
+### __Florida State University__ `2013.9 - 2019.8`
 ```
-Washington, DC
+Tallahassee, FL
 ```
-- M.S. in Statistics
-- GPA: 3.85
+- Ph.D. in Geography
+- GPA: 3.5
 - Coursework: Advanced Time Series Analysis; Mathematical Statistics; Applied Multivariate Analysis; Statistical Data Mining; Bayesian Theory (STAT6201, STAT6202, STAT6215, STAT6240, STAT6223, STAT8281)
 
 ### __Georgia Institute of Technology__ `2017.1 - 2017.5`
