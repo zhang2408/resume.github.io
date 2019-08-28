@@ -82,7 +82,7 @@ _Teaching Assistant_<br>
 - Courses: GEA 4210 Landforms & Landscape, GEO 1440 Human Goegraphy
 - Collaborated with other TAs to evaluate progress of students in a large class
 
-_Teaching Assistant_<br>
+_Lab Instructor_<br>
 - Courses: GIS 4035/GIS5034 Introduction of Remote Sensing
 - Taught lab with prepared materials and guided students’ work using ERDAS
 
@@ -95,7 +95,7 @@ _Teaching Assistant_<br>
 - Courses: GEOG 3900 Global Climate Change
 - Evaluated progress of students with written feedback to more than 100 students
 
-_Teaching Assistant_<br>
+_Lab Instructor_<br>
 - Courses: GEOG 5200 Cartography & Map Design, GEOG 6220 Advanced Application in Geogrpahic Information Systems
 - Developed lab materials and taught lab work using ArcGIS
 - Assessed progress of students and provided written feedback
