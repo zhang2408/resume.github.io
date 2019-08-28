@@ -126,21 +126,21 @@ Wise, VI
 
 ## Publications
 
-### Fang Zhang, Xiaolin Zhu, Desheng Liu (2014) Evaluating MODIS and Landsat Data Fusion Products for Urban Flood Mapping, International Journal of Remote Sensing, 35(9), 3237-3253.
-### Fang Zhang, Xiaojun Yang, Variable selection of random forest for land classification in a coastal urban system (in preparation).
-###Fang Zhang, Xiaojun Yang, Spatiotemporal analysis of urban growth and its ecological implications (in preparation).
-###Fang Zhang, Xiaojun Yang, Modeling hurricane vulnerability in NYC through Bayesian Gaussian spatial regression (in preparation).
+- Fang Zhang, Xiaolin Zhu, Desheng Liu (2014) Evaluating MODIS and Landsat Data Fusion Products for Urban Flood Mapping, International Journal of Remote Sensing, 35(9), 3237-3253.
+- Fang Zhang, Xiaojun Yang, Variable selection of random forest for land classification in a coastal urban system (in preparation).
+- Fang Zhang, Xiaojun Yang, Spatiotemporal analysis of urban growth and its ecological implications (in preparation).
+- Fang Zhang, Xiaojun Yang, Modeling hurricane vulnerability in NYC through Bayesian Gaussian spatial regression (in preparation).
 
 ## Presentations and Workshops
-###Fang Zhang, Xiaojun Yang, Variable selection of random forests for land classification in a coastal urban system. 2019 AAG Annual Meeting, Washington DC.
-###Fang Zhang, Xiaojun Yang, Quantify spatiotemporal patterns of urban growth and landscape changes on the Southwest coast of Florida. 2016 AAG Annual Meeting, San Francisco, CA.
-###Fang Zhang, Xiaojun Yang, Land classification in coastal ecosystem, a primary study in Lee and Collier Counties, Florida, 2016 IGU conference, Beijing, China.
-###NAGT Cutting edge- Preparing for an Academic Career in the gosciences, 2015 workshop, Madison,WI
-###Fang Zhang, Xiaojun Yang, Modeling Physical and Social Vulnerability to Hurricane Damage through Bayesian Gaussian Spatial Regression: A Preliminary Study, 2015 AAG Annual Meeting,Chicago.
-###Fang Zhang, An Assessment of Integrated Hurricane Vulnerability, 2014 AAG Annual Meeting,Tampa.
-###Fang Zhang, Xiaolin Zhu, Desheng Liu, Blending MODIS and Landsat Images for Urban Flood Mapping (poster), 2013 AAG Annual Meeting, Los Angeles.
-###Fang Zhang, Desheng Liu, Ola Ahlqvist, Social Vulnerability and Hurricane loss of Sandy in New York City, 2013 SouthEastern Division of Association of American Geographers, Roanoke, Virginia.
-###Fang Zhang, Aili Liu, Analysis on the Relationship between Topographical Factors and Precipitation,2012 AAG Annual Meeting, New York City.
+- Fang Zhang, Xiaojun Yang, Variable selection of random forests for land classification in a coastal urban system. 2019 AAG Annual Meeting, Washington DC.
+- Fang Zhang, Xiaojun Yang, Quantify spatiotemporal patterns of urban growth and landscape changes on the Southwest coast of Florida. 2016 AAG Annual Meeting, San Francisco, CA.
+- Fang Zhang, Xiaojun Yang, Land classification in coastal ecosystem, a primary study in Lee and Collier Counties, Florida, 2016 IGU conference, Beijing, China.
+- NAGT Cutting edge- Preparing for an Academic Career in the gosciences, 2015 workshop, Madison,WI
+- Fang Zhang, Xiaojun Yang, Modeling Physical and Social Vulnerability to Hurricane Damage through Bayesian Gaussian Spatial Regression: A Preliminary Study, 2015 AAG Annual Meeting,Chicago.
+- Fang Zhang, An Assessment of Integrated Hurricane Vulnerability, 2014 AAG Annual Meeting,Tampa.
+- Fang Zhang, Xiaolin Zhu, Desheng Liu, Blending MODIS and Landsat Images for Urban Flood Mapping (poster), 2013 AAG Annual Meeting, Los Angeles.
+- Fang Zhang, Desheng Liu, Ola Ahlqvist, Social Vulnerability and Hurricane loss of Sandy in New York City, 2013 SouthEastern Division of Association of American Geographers, Roanoke, Virginia.
+- Fang Zhang, Aili Liu, Analysis on the Relationship between Topographical Factors and Precipitation,2012 AAG Annual Meeting, New York City.
 
 ## Skills
 - Programming Language: (proficient) R, IDL, VB, (familiar) Python, JavaScript, C, SQL
