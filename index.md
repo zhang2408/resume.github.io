@@ -45,7 +45,7 @@ Nanjing, Jiangsu, China
 - GPA: 3.5
 - Core Courses: GIS algorithem Foundation, GIS Technology, GIS Principle, GIS Design & Application, GIS Secondary Development, Computer Aided Design, 3D GIS Graphics Development Foundation, Natural Geography, Principles of Spatial Database, PCI/Erdas/ENVI application 
 
-## Reasearch Experience
+## Research Experience
 
 ### __Research of Flint Water Crisis__  `2018.5 - 2018.8`
 ```
