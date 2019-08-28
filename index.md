@@ -8,7 +8,7 @@ homepage:
     url:
     text:
 ---
-# __Fang____Zhang__
+# Fang __Zhang__
 
 <!--
 include contact information from the front matter
@@ -18,7 +18,6 @@ Supported arguments:
     - email
 -->
 {% include cv-contact.html %}
-
 ## Education
 
 ### __Florida State University__ `2013.9 - 2019.8`
@@ -27,87 +26,126 @@ Tallahassee, FL
 ```
 - Ph.D. in Geography
 - GPA: 3.5
-- Coursework: Advanced Time Series Analysis; Mathematical Statistics; Applied Multivariate Analysis; Statistical Data Mining; Bayesian Theory (STAT6201, STAT6202, STAT6215, STAT6240, STAT6223, STAT8281)
+- Coursework: Remote Sensing, Environemntal Modeling, GIS Visualization, Environmental Method, Hurricane, Coastal Planning, Geological Hazards Assessment, Leadership & Communication in Emergency, Hydrology, Applied Multivariate Analysis; Bayesian analysis 
 
-### __Georgia Institute of Technology__ `2017.1 - 2017.5`
+### __The Ohio State University__`2011.9 - 2013.8`
 ```
-Altalanta, GA
+Columbus, OH
 ```
-- Exchange Program in Mathematics
-- Coursework: Information Theory; Abstract Algebra
-- Research Project: conducted literature research about orthogonal polynomials
+- M.A. in Geography
+- GPA: 3.7
+- Coursework: Synoptic Meteorology, Synoptic Analysis & Forecasting, Remote Sensing, GIS Simulation & Modeling, Quantitative Analysis, Spatial Analysis
 
 
-### __Xi’an Jiaotong University__ `2014.9 - 2018.5`
+### __Nanjing University of Information Science & Technology__ `2007.9 - 2011.5`
 ```
-Xi'an, Shaanxi, China
+Nanjing, Jiangsu, China
 ```
-- B.S. in Mathematics and Applied Mathematics (Honors Science Program)
-- GPA: 3.65
-- Core Courses: Mathematical Analysis; Ordinary Differential Equations; Complex Variables Functions; Mathematical Modeling and Applications; Partial Differential Equations, Probability and Mathematical Statistics
+- B.S. in Geographic Informaiton System 
+- GPA: 3.5
+- Core Courses: GIS algorithem Foundation, GIS Technology, GIS Principle, GIS Design & Application, GIS Secondary Development, Computer Aided Design, 3D GIS Graphics Development Foundation, Natural Geography, Principles of Spatial Database, PCI/Erdas/ENVI application 
 
 ## Reasearch Experience
 
-### __Research of Computer Science__  `2019.5 - Now`
+### __Research of Flint Water Crisis__  `2018.5 - 2018.8`
 ```
 Tallahassee, FL
 ```
 _Research Assistant_<br>
-- Advisor: Professor Jiawei Zhang from Florida State University
-- Read reference papers and articles of spectral network alignment
-- Proposed a new method to slove "Anonymous Social Network Coordination" problem
+- Advisor: Professor Katrinell Davis from Department of Sociology at Florida State University
+- Created maps for the spatial distributions of children’s blood lead level in ArcGIS
+- Analyzed its spatial association with socioeconomic and environmental covariants in R and JMP
 
 
-
-### __Research of Graph Theory__  `2017.11 - 2018.5`
+### __Research of Landscape change in Southwest Florida__  `2015.6 - 2015.8`
 ```
-Xi'an, Shaanxi, China
-```
-_Research Assistant_<br>
-- Advisor: Professor Wei Wang
-- Read reference papers and articles of a family of graph determined by spectrum
-- Proved a mathematical conjecture of determined spectrum graph
-- Proposed new conjectures based on the proof
-- Wrote a paper about the proof and innovative conjectures
-
-### __Research of Image Denoising__ `2017.6 - 2017.9`
-```
-Xi'an, Shaanxi, China
-```
-_Group Research, Member_<br>
-- Advisor: Professor Qian Zhao
-- Read related articles and gained in-depth understanding of computer visions and algorithm
-- Used P-MoG approach to establish model based on likelihood function and prior function
-- Verified the approach in real rain videos and compared with state-of-the-art approaches
-
-### __Research of Orthogonal Polynomials__ `2017.1 - 2017.8`
-```
-Atlanta, GA
+Tallahassee, FL
 ```
 _Research Assistant_<br>
-- Advisor: Professor Doron S. Lubinsky
-- Read reference papers and articles of orthogonal polynomials
-- Worked out the polynomial of a given degree that is orthogonal.
+- Advisor: Professor Xiaojun Yang from Department of Geography at Florida State University
+- Collected satellite data for time series analysis
+- Planned and coordinated field trips in Southwest Florida using Trimble GPS
 
-## Mathematical Competition
+## Teaching Experience
 
-### __Gaojiao Cup National Mathematical Modeling Competition__ `2016.6`
+### __Teaching in Florida State University, Geography__  `2013.9 - 2018.5`
 ```
-Xi'an, Shaanxi, China
+Tallahassee, FL
 ```
-- Problem A: Mooring System for Cross-sea Bridge Structure Modeling
-- Initiated a team with other two members, allocated tasks and took charge of mathematical modeling
-- Analyzed mooring system’s stress under different conditions of inclination angle, anchor chain and draught
-- Adopted infinitesimal method to solve mechanics differential equation and anchor chain state equation
-- Simulated static and dynamic mooring system with proper inclination angle and anchor chain length
-- Awarded with Third Prize of Shaanxi Province
+_Instructor_<br>
+- Courses: GEA 1000 World Geography (X3), GEO 1330 Environmental Science (X8)
+- Conveyed fundamental concepts of the course to large class over 100 students
+- Designed and facilitated group discussions, oral and written assignments to improve students’ awareness and apply critical thinking skills in current events or environmental issues
+- Administered and evaluated progress of students utilizing Canvas
+
+_Teaching Assistant_<br>
+- Courses: GEA 4210 Landforms & Landscape, GEO 1440 Human Goegraphy
+- Collaborated with other TAs to evaluate progress of students in a large class
+
+_Teaching Assistant_<br>
+- Courses: GIS 4035/GIS5034 Introduction of Remote Sensing
+- Taught lab with prepared materials and guided students’ work using ERDAS
 
 
-## Additional Information
+### __Teaching in The Ohio State University,Geography__  `2012.1 - 2013.5`
+```
+Columbus,OH
+```
+_Teaching Assistant_<br>
+- Courses: GEOG 3900 Global Climate Change
+- Evaluated progress of students with written feedback to more than 100 students
 
-- _Languages_: Chinese Mandarin (native), English (fluent)
-- _SUB MATH_: 870/920
-- _Software_: Python, R, MATLAB, C++, LaTeX, Mathematics
+_Teaching Assistant_<br>
+- Courses: GEOG 5200 Cartography & Map Design, GEOG 6220 Advanced Application in Geogrpahic Information Systems
+- Developed lab materials and taught lab work using ArcGIS
+- Assessed progress of students and provided written feedback
+
+## Work Experience
+
+### __Inner Mongolia Weather Bureau, Satellite Remote Sensing Center__ `2018.9`
+```
+Huhhot, Inner Mongolia, China
+```
+- Conducted field trip to evaluate agricultural loss after a major flood using unmanned aerial vehicle
+- Communicated with local farmers, government officers and insurance company and prepare damage reports
+
+### __China Meteorological Administration,National Satellite Meteorological Center__ `2014.6 - 2014.8`
+```
+Beijing, China
+```
+- Blended FY-3 satellite images with MODIS in monitoring urban flooding
+- Presented research method and result in National Satellite Meteorological Center
+
+### __NASA DEVELOP National Program__ `2012.6 - 2012.8`
+```
+Wise, VI
+```
+- Drew flood maps and assessed traffic accessibility in Mexico City, Mexico
+- Evaluated flood risk by examining social vulnerability and flood depth
+- Presented research with team members to schools, clubs and NASA headquarter
+
+## Publications
+
+### Fang Zhang, Xiaolin Zhu, Desheng Liu (2014) Evaluating MODIS and Landsat Data Fusion Products for Urban Flood Mapping, International Journal of Remote Sensing, 35(9), 3237-3253.
+### Fang Zhang, Xiaojun Yang, Variable selection of random forest for land classification in a coastal urban system (in preparation).
+###Fang Zhang, Xiaojun Yang, Spatiotemporal analysis of urban growth and its ecological implications (in preparation).
+###Fang Zhang, Xiaojun Yang, Modeling hurricane vulnerability in NYC through Bayesian Gaussian spatial regression (in preparation).
+
+## Presentations and Workshops
+###Fang Zhang, Xiaojun Yang, Variable selection of random forests for land classification in a coastal urban system. 2019 AAG Annual Meeting, Washington DC.
+###Fang Zhang, Xiaojun Yang, Quantify spatiotemporal patterns of urban growth and landscape changes on the Southwest coast of Florida. 2016 AAG Annual Meeting, San Francisco, CA.
+###Fang Zhang, Xiaojun Yang, Land classification in coastal ecosystem, a primary study in Lee and Collier Counties, Florida, 2016 IGU conference, Beijing, China.
+###NAGT Cutting edge- Preparing for an Academic Career in the gosciences, 2015 workshop, Madison,WI
+###Fang Zhang, Xiaojun Yang, Modeling Physical and Social Vulnerability to Hurricane Damage through Bayesian Gaussian Spatial Regression: A Preliminary Study, 2015 AAG Annual Meeting,Chicago.
+###Fang Zhang, An Assessment of Integrated Hurricane Vulnerability, 2014 AAG Annual Meeting,Tampa.
+###Fang Zhang, Xiaolin Zhu, Desheng Liu, Blending MODIS and Landsat Images for Urban Flood Mapping (poster), 2013 AAG Annual Meeting, Los Angeles.
+###Fang Zhang, Desheng Liu, Ola Ahlqvist, Social Vulnerability and Hurricane loss of Sandy in New York City, 2013 SouthEastern Division of Association of American Geographers, Roanoke, Virginia.
+###Fang Zhang, Aili Liu, Analysis on the Relationship between Topographical Factors and Precipitation,2012 AAG Annual Meeting, New York City.
+
+## Skills
+- Programming Language: (proficient) R, IDL, VB, (familiar) Python, JavaScript, C, SQL
+- Software: ArcGIS, ENVI, ERDAS, Google Earth Engine, IDRISI, Fragstats, Hazus, JMP, SPSS,
+- Other skills: communication, teamwork, leadership, problem-solving, ability to work under pressure
 
 
 <!-- ### Footer
